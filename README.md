@@ -44,9 +44,9 @@ The University of Texas at Austin, Texas
 - Maintained an organized work environment, ensuring smooth day-to-day operations.
 
 **Esticom** | Social Media Assistant - Austin, Texas *(Jan - Mar 2019)* 
-- Collaborated with strategists to craft and schedule posts across social platforms, driving user engagement and brand awareness
-- Utilized analytics tools to optimize content performance and adjust strategies for maximum impact
-- Developed SEO-optimized content to improve search visibility and website traffic
+- Collaborated with strategists to craft and schedule posts across social platforms, driving user engagement and brand awareness.
+- Utilized analytics tools to optimize content performance and adjust strategies for maximum impact.
+- Developed SEO-optimized content to improve search visibility and website traffic.
 
 
 ---
