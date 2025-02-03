@@ -8,7 +8,7 @@ tyler.s.owen92@gmail.com
 
 ### Objective
 
-Detail-oriented and customer-focused professional with extensive experience in client relations, communication, and organizational support. Seeking a receptionist position to leverage my communication, organizational, and multitasking skills in a fast-paced office environment.
+Detail-oriented and customer-focused professional with extensive experience in client relations, communication, and organizational support. Seeking an administrative assistant position to leverage my communication, organizational, and multitasking skills in a fast-paced office environment.
 
 ### Education
 
@@ -53,7 +53,7 @@ The University of Texas at Austin, Texas
 
 ### Skills
 
-- **Customer Service and Client Relations** - Over a decade of experience in sutomer-facing roles.
+- **Customer Service and Client Relations** - Over a decade of experience in customer-facing roles.
 - **Strong Verbal and Written Communication** - Skilled in professional phone, email, and in-person interactions.
 - **Tech Proficiency** - Comfortable using Microsoft Office, email systems, and communication tools like Slack.
 - **Multitasking and Organization** - Ability to balance multiple responsibilities efficiently.
