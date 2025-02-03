@@ -53,12 +53,11 @@ The University of Texas at Austin, Texas
 
 ### Skills
 
-- **Customer Service and CLient Relations** - Over a decad of experience in sutomer-facing roles.
-- **Office Administration** - Scheduling, handling paperwork, maintaining records, and supporting team opertations.
-- **Microsoft Office Proficiency** - Skilled in Microsoft Word, Excel, and Outlook for office tasks.
+- **Customer Service and Client Relations** - Over a decade of experience in sutomer-facing roles.
+- **Strong Verbal and Written Communication** - Skilled in professional phone, email, and in-person interactions.
+- **Tech Proficiency** - Comfortable using Microsoft Office, email systems, and communication tools like Slack.
 - **Multitasking and Organization** - Ability to balance multiple responsibilities efficiently.
-- **Phone and Email Communication** - Experienced in answering calls, managing inquiries, and directling clients.
-- **Team Coordination** - Leadership experience in training, scheduling, and workflow optimization.
-
+- **Attention to Detail** - Expereinced in following guidelines and ensuring accuracy in documentation.
+- **Team Collaboration** - Expereince working closely with colleagues and management to ensure smooth daily operations.
 
 
