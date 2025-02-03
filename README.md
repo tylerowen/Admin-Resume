@@ -31,11 +31,11 @@ The University of Texas at Austin, Texas
 - Greeted and assisted customers in a fast-paced environment, ensuring positive client interactions.
 - Took on leadership responsibilities, mentoring and guiding team members to optimize workflow and improve staff efficiency.
 - Managed documentation for annual health inspections and company policies, maintaining compliance.
-- Utilized SLack and other communication tools to streamline daily operations.
+- Utilized Slack and other communication tools to streamline daily operations.
 
 **Salty Sow** | Server - Austin, Texas *(Sep - Feb 2023)*
 - Provided excellent customer service, managing guest inquiries and coordinating orders.
-- Worked in a fast-paced environment, balancing multiple tasks while maintiang professionalism.
+- Worked in a fast-paced environment, balancing multiple tasks while maintaining professionalism.
 - Developed strong communication skills, effectively relaying information between guests and staff.
 
 **Caroline** | Barista - Austin, Texas *(Aug - Apr 2020)*
