@@ -21,7 +21,16 @@ The University of Texas at Austin, Texas
 
 ### Professional Experience
 
-**Outlier AI** | Writing Evaluator Tier 3 - Remote *(Jun 2024 - present)*
+**Captain Quackenbush's Bakery and Coffee House** | Bartender - Austin, Texas *(Apr 2025 - June 2026)*
+- Made alcoholic drinks to order during regular evening hours as well as during events held at the location 
+- I was responsible for A/V set-up for certain events, like setting up the projector, turning on the sound board and power in the  correct order, and setting up mic stands as well as working the sound booth 
+- I performed my duties with the health code in mind and cleaned the equipment and building as per expectations 
+- I recorded the happenings of my shift to my manager every night, as well as the revenue, and sent it over Slack 
+- I performed regular bartender duties by keeping tabs on how much each customer drank and cutting them off if necessary  
+- I was responsible for getting the public out of the building promptly at the end of the night 
+
+
+**Outlier AI** | Writing Evaluator Tier 3 - Remote *(Jun 2024 - Dec 2024)*
 - Analyzed and evaluated AI-generated content based on company guidelines, demonstrating attention to detail and accuracy in documentation.
 - Communicated with teams using Discourse and Slack, ensuring alignment with project goals.
 - Managed multiple tasks efficiently while maintaining quality and productivity.
