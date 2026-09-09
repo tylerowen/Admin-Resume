@@ -25,29 +25,17 @@ The University of Texas at Austin, Texas
 **Outlier AI** | Writing Evaluator Tier 3 - Remote *(Jun 2024 - Dec 2024)*
 - Analyzed and evaluated AI-generated content based on company guidelines, demonstrating attention to detail and accuracy in documentation.
 - Communicated with teams using Discourse and Slack, ensuring alignment with project goals.
-- Managed multiple tasks efficiently while maintaining quality and productivity.
-
-
-**Radix House Coffee Shop** | Team Lead Barista and Budtender - Austin, Texas *(Apr 2023 - Sep 2024)*
-- Greeted and assisted customers in a fast-paced environment, ensuring positive client interactions.
-- Took on leadership responsibilities, mentoring and guiding team members to optimize workflow and improve staff efficiency.
-- Managed documentation for annual health inspections and company policies, maintaining compliance.
-- Utilized Slack and other communication tools to streamline daily operations.
-
-**Salty Sow** | Server - Austin, Texas *(Sep - Feb 2023)*
-- Provided excellent customer service, managing guest inquiries and coordinating orders.
-- Worked in a fast-paced environment, balancing multiple tasks while maintaining professionalism.
-- Developed strong communication skills, effectively relaying information between guests and staff.
-
-**Caroline** | Barista - Austin, Texas *(Aug - Apr 2020)*
-- Served as both front desk assistant and barista, ensuring smooth day-today operations.
-- Trained and supported new employees, improving team effciciency.
-- Maintained an organized work environment, ensuring smooth day-to-day operations.
+- Managed multiple tasks efficiently while maintaining quality and productivity
 
 **Esticom** | Social Media Assistant - Austin, Texas *(Jan - Mar 2019)* 
 - Collaborated with strategists to craft and schedule posts across social platforms, driving user engagement and brand awareness.
 - Utilized analytics tools to optimize content performance and adjust strategies for maximum impact.
 - Developed SEO-optimized content to improve search visibility and website traffic.
+
+ **Amala Foundation** | Social Media Assistant - Austin, Texas *(March-June 2016)*
+ - Collaborated with interns and administration to manage and schedule posts across three Facebook pages, ensuring           consistent and engaging copy
+- Designed graphics for social media posts, contributing to the organization’s visual branding and event promotion efforts
+- Analyzed post performance metrics, optimizing posting times and employing SEO techniques to maximize reach and engagement
 
 
 ---
