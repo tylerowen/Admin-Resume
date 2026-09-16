@@ -31,7 +31,7 @@ The University of Texas at Austin, Texas
 - Communicated with distributed teams using Discourse and Slack to maintain project alignment
 - Managed multiple concurrent tasks while maintaining consistent quality standards
 
-**Radix House Coffee Shop** | Team Lead - *(April 2023- Sept 2024)*
+**Radix House Coffee Shop** | Team Lead - Austin, Texas *(April 2023- Sept 2024)*
 - Trained new hires on operational standards and compliance procedures
 - Developed and optimized the employee handbook to improve workplace efficiency
 - Managed documentation and compliance tasks to support daily operations
