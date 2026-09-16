@@ -67,7 +67,7 @@ The University of Texas at Austin, Texas
 - **Strong Verbal and Written Communication** - Skilled in professional phone, email, and in-person interactions.
 - **Tech Proficiency** - Comfortable using Microsoft Office, email systems, and communication tools like Slack.
 - **Multitasking and Organization** - Ability to balance multiple responsibilities efficiently.
-- **Attention to Detail** - Expereinced in following guidelines and ensuring accuracy in documentation.
-- **Team Collaboration** - Expereince working closely with colleagues and management to ensure smooth daily operations.
+- **Attention to Detail** - Experienced in following guidelines and ensuring accuracy in documentation.
+- **Team Collaboration** - Experience working closely with colleagues and management to ensure smooth daily operations.
 
 
